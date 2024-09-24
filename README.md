@@ -25,6 +25,7 @@
   - I enjoy reading 📚, whether it's a good books 📖! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yasmimsc49)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasmim_.sc)
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasmimsc&show_icons=true&theme=gotham)
