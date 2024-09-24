@@ -11,11 +11,10 @@
 
 
 <p>
-  Hi 👋, I'm Yasmim! A student.
+  Hi 👋, I'm Yasmim! I'm a student at ETEC.
 
   - 🌱 I’m currently studying HTML5, CSS and Python
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+    
 </p>
 
 <details>
@@ -23,7 +22,7 @@
 
   - 💬 I am 15 years old, currently living in Brazil.
 
-  - ⚡ I enjoy reading, whether it's a good books! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
+  - I enjoy reading 📚, whether it's a good books 📖! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasmim_.sc)
