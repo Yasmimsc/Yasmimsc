@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil.
+  - 💬 I am 16 years old, currently living in Brazil.
 
   - I enjoy reading 📚, whether it's a good books 📖! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
