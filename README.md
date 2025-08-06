@@ -13,7 +13,7 @@
 <p>
   Hi 👋, I'm Yasmim! I'm a student at ETEC.
 
-  - 🌱 I’m currently studying HTML5, CSS and Python
+  - 🌱 I’m currently studying HTML5, CSS, JavaScript and PHP.
     
 </p>
 
